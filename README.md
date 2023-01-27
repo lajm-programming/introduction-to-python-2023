@@ -1,4 +1,4 @@
 # Introduction to Python Programming 
 
-This repository supplements 1 month introductory Python programming course at LAJM.
+This repository supplements one month introductory Python programming course at LAJM.
 
