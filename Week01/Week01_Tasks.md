@@ -47,9 +47,34 @@ tip included.
 - Dictionary
 - Set
 
-## Lesson 03: Logical Statement
 
-### Problem 4:
+## Lesson 03: For Loops 
+
+### Problem 4
+
+Write a program that prints the elements of the list.
+
+List: ["Dan", "Linda", "Jonas", "Simona", "Michael"]
+
+### Problem 5
+
+Write a program that prints keys and values of the dictionary.
+
+Dictionary:
+
+```text
+{
+    "Dan": 98,
+    "Linda": 90
+    "Jonas": 60
+    "Simona": 65
+    "Michael": 80
+}
+```
+
+## Lesson 04: Logical Statements
+
+### Problem 6:
 
 Ask the user to enter a temperature in Celsius. The program should print a message based
 on the temperature:
@@ -62,7 +87,7 @@ below absolute zero.
 • If it is 100, print that the temperature is at the boiling point.
 • If it is above 100, print that the temperature is above the boiling point.
 
-### Problem 5: Body Mass Index
+### Problem 7: Body Mass Index
 
 Body Mass Index (BMI) is computed as follows
 
