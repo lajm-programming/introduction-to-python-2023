@@ -1,0 +1,81 @@
+# Week One Tasks
+
+## Setup
+
+1) Install Python on your computer: https://www.python.org/
+
+2) Install PyCharm Community on your computer: https://www.jetbrains.com/pycharm/download/
+
+3) Create GitHub Account: https://github.com/
+
+4) Send your GitHub account link to v.alisauskaite@lajm.lt
+
+5) Create HackerRank account. Tyr using the following format when naming the account:
+firstname_lastname. For example, the person named John Doe has to create the account john_doe. 
+
+6) Send your HackerRank account username to v.alisauskaite@lajm.lt
+
+
+## Lesson 01: Variables
+
+### Problem 1: Weight Converter
+
+(a) Write a program that asks the user for a weight in kilograms and converts it to pounds. 
+
+(b) Write a program that asks the user for a weight in pounds and converts it to kilograms. 
+
+Hint: There are 2.2 pounds in a kilogram.
+
+### Problem 2: Simple Computations
+
+Write a program that asks the user to enter three numbers (use three separate input state-
+ments). Create variables called total and average that hold the sum and average of the
+three numbers and print out the values of total and average .
+
+### Problem 3: Tip Calculator
+
+Write a tip calculator. Ask the user for the price of the meal and
+the percent tip they want to leave. Then print both the tip amount and the total bill with the
+tip included.
+
+## Lesson 02: Data Types
+
+- Number
+- String
+- Boolean
+- List, tuple
+- Dictionary
+- Set
+
+## Lesson 03: Logical Statement
+
+### Problem 4:
+
+Ask the user to enter a temperature in Celsius. The program should print a message based
+on the temperature:
+• If the temperature is less than -273.15, print that the temperature is invalid because it is
+below absolute zero.
+• If it is exactly -273.15, print that the temperature is absolute 0.
+• If the temperature is between -273.15 and 0, print that the temperature is below freezing.
+• If it is 0, print that the temperature is at the freezing point.
+• If it is between 0 and 100, print that the temperature is in the normal range.
+• If it is 100, print that the temperature is at the boiling point.
+• If it is above 100, print that the temperature is above the boiling point.
+
+### Problem 5: Body Mass Index
+
+Body Mass Index (BMI) is computed as follows
+
+```text
+BMI = Weight,kg / (Height,m * Height,m)
+```
+
+BMI Ranges:
+
+- below 18.5: underweight
+- 18.5 - 25: healthy weight
+- 25 - 30: overweight range
+- 30 and more: obesity
+
+(a) Write the program in Python that (a) computes person's body mass index, (b) displays it on the screen,
+and (c) prints the conclusion based on BMI range.
