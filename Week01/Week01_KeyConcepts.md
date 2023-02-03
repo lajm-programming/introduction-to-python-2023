@@ -67,13 +67,13 @@ for i in range(25,  31):
 
 The result returned by any comparison operation is True or False
 
-Equality: x == y
+Equal: x == y
 
 - 2 == 2 # True
 - 2 == 3 # False
 
 
-Inequality: x != y
+Not equal: x != y
 
 - 2 != 2 # False
 - 3 != 2 # True
