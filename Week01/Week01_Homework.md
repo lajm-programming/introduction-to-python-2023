@@ -1,5 +1,7 @@
 # Week One Homework: 
 
+DELIVERY DATE: 2023.02.07
+
 ## Problem 1: Multiplication for Kids
 
 (a) Write a multiplication game program for kids. The program should give the player ten randomly generated 
