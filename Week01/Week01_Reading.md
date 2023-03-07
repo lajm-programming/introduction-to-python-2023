@@ -11,3 +11,6 @@ Ch.2: For Loops
 Ch.3: Numbers
 
 Ch.4: If Statements
+
+Ch. 5: Miscellaneous Topics I
+
