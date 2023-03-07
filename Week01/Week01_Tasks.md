@@ -32,11 +32,29 @@ Write a program that asks the user to enter three numbers (use three separate in
 ments). Create variables called total and average that hold the sum and average of the
 three numbers and print out the values of total and average .
 
+Test Cases:
+
+- Input 1: 10, 20, 30. Output: total=60, average=20
+- Input 2: 2.8, 4.5, -2.7. Output: total=4.6, average=1.533
+- Input 3: 128, 327, 98. Output: total=553, average=184.333
+
 ### Problem 3: Tip Calculator
 
 Write a tip calculator. Ask the user for the price of the meal and
 the percent tip they want to leave. Then print both the tip amount and the total bill with the
 tip included.
+
+Round the total bill amount as follows:
+
+If the calculated amount is 10.98, then the total bill amount should be 11.00.
+
+If the calculated amount is 10.82, then the total bill amount should be 10.90
+
+Test Cases:
+
+- Input 1: meal_price=10.00 , tip = 10 %. Output: 11.00
+- Input 2: meal_price: 8.54, tip = 5 %. Output: 9.00
+- Input 3: meal_price: 162.89, tip = 7%. Output: 174.30
 
 ## Lesson 02: Data Types
 
@@ -52,13 +70,18 @@ tip included.
 
 ### Problem 4
 
-Write a program that prints the elements of the list.
+a) Write a program that prints the elements of the list.
 
 List: ["Dan", "Linda", "Jonas", "Simona", "Michael"]
 
+
+b) Find the index of the first occurrence of "Jonas". What is the value of the index? Access "Jonas" by index. 
+
+c) How can be accessed the last element of the list?
+
 ### Problem 5
 
-Write a program that prints keys and values of the dictionary.
+a) Write a program that prints keys and values of the dictionary.
 
 Dictionary:
 
@@ -71,6 +94,10 @@ Dictionary:
     "Michael": 80
 }
 ```
+
+b) Write a function that finds students that collected a top score. The top score is 100.
+
+c) Write a function that returns the highest score received.
 
 ## Lesson 04: Logical Statements
 
@@ -102,5 +129,12 @@ BMI Ranges:
 - 25 - 30: overweight range
 - 30 and more: obesity
 
-(a) Write the program in Python that (a) computes person's body mass index, (b) displays it on the screen,
-and (c) prints the conclusion based on BMI range.
+Write the program in Python that does the following things
+
+(a) asks the user to enter height in meters, and weight in kg;
+
+(b) computes person's body mass index; 
+
+(c) displays it on the screen;
+
+(e) prints the conclusion based on BMI range;
