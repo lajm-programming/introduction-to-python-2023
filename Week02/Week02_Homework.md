@@ -4,7 +4,13 @@ DELIVERY DATE: 2023.02.14
 
 ## Assignment 1
 
-- Watch the video course on GitHub: https://www.youtube.com/watch?v=zZBiln_2FhM
+- Watch the video course on GitHub: 
+
+    (EN) https://www.youtube.com/watch?v=8JJ101D3knE
+
+    (RU) https://www.youtube.com/watch?v=zZBiln_2FhM
+    
+
 - Understand how to make changes to the existing GitHub project
 
 ## Assignment 2
