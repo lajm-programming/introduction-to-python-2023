@@ -1,6 +1,8 @@
-# Video Tutorial on Git Basics
+# Video Tutorials on Git Basics
 
-https://www.youtube.com/watch?v=zZBiln_2FhM
+    (EN) https://www.youtube.com/watch?v=8JJ101D3knE
+
+    (RU) https://www.youtube.com/watch?v=zZBiln_2FhM
 
 # Git Commands that you need to learn
 
@@ -12,7 +14,3 @@ https://www.youtube.com/watch?v=zZBiln_2FhM
 - git push
 - git pull
 - git clone
-
-# Git Basic Commands Summary
-
-https://vk.com/@vladilen.minin-git-and-github

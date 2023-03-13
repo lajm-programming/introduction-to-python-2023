@@ -102,7 +102,49 @@ The modified list should be constructed as follows:
 
 Solve the problem Nested Lists from the HackerRank: https://www.hackerrank.com/challenges/nested-list/problem
 
-## Lesson 04: While Loops
+
+## Lesson 06: Dictionaries
+
+### Problem 01: Create a Simple Dictionary
+
+Create a dictionary storing an information about the person, the dictionary has to contain the following data:
+
+- First Name
+- Last Name
+- Age
+- Occupation
+- Hobbies (list 2 or 3),
+- City
+- Country
+
+### Problem 02: Favourite Programming Language
+
+We have a student poll data with favourite programming languages:
+
+programming_languages = {
+    "Linas": "Ruby",
+    "Petras": "C++",
+    "Jurga": "Python",
+    "Nerijus": "Java"
+}
+
+a) Process the dictionary and print out the following sentence for every entry of the dictionary:
+
+<StudentName> favourite programming language is <ProgrammingLanguage>.
+
+Example: Linas programming language is Ruby.
+
+!!! The sentences should follow students names alphabetical order. !!!
+
+b) There is a list of students, some of students had participated in the poll, and some didn't.
+
+students_list = ["Paulius", "Nerijus", "Alina", "Jurga", "Linas"]
+
+If the student participated in the poll print: Hi <StudentName>, thank you for taking part in our Programming Language poll!
+
+If the student didn't participat in the poll print: Hi <StudentName>! What is your favourite programming language?
+
+## Lesson 05: While Loops
 
 ### Problem 01:
 The code below prints the numbers from 1 to 50. Rewrite the code using a while loop to
