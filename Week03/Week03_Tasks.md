@@ -12,11 +12,57 @@
 - We will write a vector class
 - We will learn some Python magic methods
 
+## Warming Up
+
+## Problem 0: Python Dictionaries
+
+(a)
+Create an empty dictionary called **phone_book**, add to your dictionary the entries given below:
+
+- Laima, +370-638-18259
+- Tadas, +370-655-21007
+- Kornelija,  +370-622-45451
+- Aurimas, +370-615-12225
+- Ernestas, +370-622-81599
+
+(b)
+Print your phone book in alphabetical order.
+
+(c) 
+Write a function called *phone_search()* that takes a phone book and name as parameters, 
+and if the name is found in the phone book the function returns a string of the format "name: phone number",
+if the name is not in the phone book, the function should return "Not found".
+
+Example 1: If the name is "Laima", the function must return: "Laima=+370-638-18259"
+
+Example 2: If the name is "Rokas", the function must return: "Not found"
+
+(c) 
+Test your function, trying it with different names.
+
+(d)
+You are ready to solve the "Day 8: Dictionaries and Maps" problem from the HackerRank, so go and solve it!
+
+
 ## Problem Solving
 
-### Problem 1
+### Problem 1: Hero Backpack
 
-Solve a Day 4 problem from the HackerRank 30 days of code
+We need to write a class that simulates a backpack functionality in a strategy game.
+
+1) List of items that can be added to the backpack: medicine, gold, food
+
+2) The backpack size is limited, so the total amount of all items can not exceed 30
+
+3) Backpack attributes:
+
+- content
+
+5) Backpack methods:
+
+- add_item(item_name, quantity)
+- drop_item(item_name, quantity)
+- list_items()
 
 ### Problem 2
 
